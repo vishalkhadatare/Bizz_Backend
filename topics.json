@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Distributed Systems", "category": "CS" },
+  { "id": 2, "name": "Machine Learning", "category": "AI" },
+  { "id": 3, "name": "Databases", "category": "CS" },
+  { "id": 4, "name": "Cryptography", "category": "Security" },
+  { "id": 5, "name": "Cloud Computing", "category": "Infrastructure" }
+]
